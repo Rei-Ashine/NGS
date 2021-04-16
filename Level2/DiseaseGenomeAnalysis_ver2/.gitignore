@@ -1,0 +1,7 @@
+*.gz
+*.bam
+*.bai
+*.sra
+*.fasta
+
+/RefHg38/*

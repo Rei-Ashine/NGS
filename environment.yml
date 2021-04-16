@@ -1,0 +1,12 @@
+name: dry
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+dependencies:
+  - bwa=0.7.17
+  - sra-tools=2.10.9
+  - samtools=1.12
+  - picard=2.25.1
+  - gatk4=4.2.0.0
+  - bedtools=2.30.0
