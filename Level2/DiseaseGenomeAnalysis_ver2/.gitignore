@@ -1,7 +1,12 @@
 *.gz
+!ccds.bed.gz
 *.bam
 *.bai
 *.sra
+*.tbi
+*.txt
+*.bed
 *.fasta
 
 /RefHg38/*
+/annovar/*
