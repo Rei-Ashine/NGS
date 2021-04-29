@@ -6,6 +6,8 @@
 *.tbi
 *.txt
 *.bed
+*.vcf
+*.idx
 *.fasta
 *.avinput
 
