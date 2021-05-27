@@ -5,6 +5,8 @@ channels:
   - conda-forge
 dependencies:
   - python=3.7.6
+  - perl-net-ftp=2.79
+  - perl-lwp-protocol-https=6.07
   - bwa=0.7.17
   - sra-tools=2.10.9
   - samtools=1.9
